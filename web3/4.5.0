@@ -1,0 +1,14 @@
++ @types/chai@4.2.0
++ @types/mocha@10.0.1
++ ts-node@10.9.1
++ @types/node@20.2.3
++ typescript@5.0.4
++ @ethersproject/abi@5.7.0
++ @ethersproject/providers@5.7.2
+added 23 packages from 20 contributors, updated 4 packages and audited 731 packages in 6.135s
+
+144 packages are looking for funding
+  run `npm fund` for details
+
+found 7 vulnerabilities (1 moderate, 4 high, 2 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
